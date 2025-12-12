@@ -17,12 +17,54 @@
         <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
         <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
       </p>
+       <td valign="top" style="padding-left:16px">
+      <p style="font-size:1.1rem; margin-top:0;"
+     <p>
+  💬 Ask me about <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white" alt="Python">
+                   <img src="https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white" alt="HTML 5">
+ 
 
-      <p style="font-size:1.1rem; margin-top:8px;">💬 Ask me about</p>
-      <p>
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-      </p>
-    </td>
+                
+</p>
+
   </tr>
 </table>
+ 🧰 Tools & Version Control
+
+ 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+
+  **VEDANG MISHRA**  
+Aspiring developer and student from India, passionate about technology and creativity,  
+Currently deepening my knowledge in **Python** and **HTML** while building web projects.                                  
+### 🚀 What I'm Learning
+- **Python** for general programming and problem-solving
+- **HTML** and web development fundamentals
+-
+
+
+---
+
+### 🛠 Skills & Interests
+- Coding personal websites and platform clones
+- Exploring new programming languages
+- Automotive design, digital art, and 3D modeling
+- Engaged with physics and mathematics studies
+thanks for giving your precious time so please follow and veiw my repositories
+
+
+### 🎯 Goals
+- Master advanced web development concepts
+- Build full-stack applications
+- Contribute meaningfully to open-source
+  🌟 Personal Philosophy
+I believe in learning by doing — every project is a step forward.
+
+Curiosity drives me to explore new ideas and technologies.
+
+I value clean code, clear communication, and continuous improvement.
+
+_Thanks for stopping by here i am trying to learn more languges so be with me and follow me_
+
