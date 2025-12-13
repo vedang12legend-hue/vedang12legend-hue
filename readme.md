@@ -67,4 +67,8 @@ Curiosity drives me to explore new ideas and technologies.
 I value clean code, clear communication, and continuous improvement.
 
 _Thanks for stopping by here i am trying to learn more languges so be with me and follow me_
+<p align="center">
+  <img src="https://copilot.microsoft.com/th/id/BCO.e46efc64-5f9a-4bdf-8888-0148f63336a3.png" alt="GitHub Banner">
+</p>
+
 
