@@ -1,3 +1,4 @@
+![VedangCoding](https://img.shields.io/badge/VedangCoding-Developer-blue?style=for-the-badge)
 
 
 
