@@ -1,19 +1,20 @@
 <h1 align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code
-    &size=30
-    &pause=1200
-    &color=00F7FF
-    &center=true
-    &vCenter=true
-    &width=900
-    &lines=Hi+I+am+Vedang+Mishra+👋;
-    Frontend+Developer;
-    I+build+cool+web+projects;
-    Skills%3A+HTML+CSS+Git+Spring+Oracle+Arcade"
-    alt="Sliding Typing Effect" />
+  <img src="https://readme-typing-svg.demolab.com?
+  font=Fira+Code
+  &size=32
+  &pause=1000
+  &color=00FFAB
+  &center=true
+  &vCenter=true
+  &width=1000
+  &lines=Hey+👋+I'm+Vedang+Mishra;
+  Frontend+Developer+💻;
+  Building+Cool+Web+Projects+🚀;
+  HTML+CSS+Git+Spring+Oracle+Arcade+🕹️"
+  alt="Typing SVG" />
 </h1>
+
+
 
 
 ### 👨‍💻 About Me
