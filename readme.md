@@ -1,7 +1,5 @@
 ![Profile](https://img.shields.io/badge/GitHub-VedangCoding-black?style=for-the-badge&logo=github)
-![Oracle](https://img.shields.io/badge/Oracle-Developer-red?style=for-the-badge&logo=oracle)
-![CSS3](https://img.shields.io/badge/CSS3-Developer-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring-Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
 
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
@@ -27,7 +25,9 @@
      <p>
   💬 Ask me about <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white" alt="Python">
                    <img src="https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white" alt="HTML 5">
- 
+                    ![Oracle](https://img.shields.io/badge/Oracle-Developer-red?style=for-the-badge&logo=oracle)
+![CSS3](https://img.shields.io/badge/CSS3-Developer-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring-Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
                 
 </p>
