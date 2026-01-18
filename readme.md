@@ -25,9 +25,11 @@
      <p>
   💬 Ask me about <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white" alt="Python">
                    <img src="https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white" alt="HTML 5">
-                    <img src=[Oracle](https://img.shields.io/badge/Oracle-Developer-red?style=for-the-badge&logo=oracle)
-                    <img src=[CSS3](https://img.shields.io/badge/CSS3-Developer-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-                    <img src=[Spring Boot](https://img.shields.io/badge/Spring-Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+                    <img src="https://img.shields.io/badge/Oracle-Database-F80000?logo=oracle&logoColor=white" alt="Oracle">
+                    <img src="https://img.shields.io/badge/Spring-Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot">
+                    <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white" alt="Git">
+                    <img src="https://img.shields.io/badge/Arcade-Coding-FF2D55?logo=github&logoColor=white" alt="Arcade">
+
 
                 
 </p>
