@@ -1,40 +1,26 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-  font=Fira+Code
-  size=30
-  pause=1000
-  color=00F7FF
-  center=true
-  vCenter=true
-  width=900
-  lines=Hi+I'm+Vedang+Mishra+👋;
-  Frontend+Developer;
-  I+Build+Cool+Web+Projects;
-  Skills%3A+HTML+CSS+Git+Spring+Oracle+Arcade"
-  alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code
+    &size=30
+    &pause=1200
+    &color=00F7FF
+    &center=true
+    &vCenter=true
+    &width=900
+    &lines=Hi+I+am+Vedang+Mishra+👋;
+    Frontend+Developer;
+    I+build+cool+web+projects;
+    Skills%3A+HTML+CSS+Git+Spring+Oracle+Arcade"
+    alt="Sliding Typing Effect" />
 </h1>
+
+
 ### 👨‍💻 About Me
 - 💻 Frontend Developer  
 - 🚀 Learning Full-Stack Development  
 - 🧠 Exploring Spring & Databases  
 - 🎮 Love building Arcade-style projects  
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-Boot-6DB33F?logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle-Database-F80000?logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/Arcade-Coding-FF2D55">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight">
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight">
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true">
-</p>
 
 ![Profile](https://img.shields.io/badge/GitHub-VedangCoding-black?style=for-the-badge&logo=github)
 
