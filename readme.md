@@ -1,4 +1,5 @@
 ![VedangCoding](https://img.shields.io/badge/VedangCoding-Developer-blue?style=for-the-badge)
+![Pair Extraordinaire](https://img.shields.io/badge/GitHub-Pair%20Extraordinaire-8A2BE2?logo=github&logoColor=white)
 
 
 
