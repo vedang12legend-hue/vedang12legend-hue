@@ -5,7 +5,7 @@
 </h1>
  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;Open+Source+Enthusiast;HTML+CSS+CSS3+JavaScript;Learning+Python&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;Open+Source+Enthusiast;HTML+CSS+CSS3+JavaScript;Learning+Python&C++center=true&width=500&height=45">
 </p>
 
 <p align="center">
