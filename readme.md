@@ -7,15 +7,8 @@
 ║   ██║     ███████╗███████║   ██║   ╚██████╔╝███████║        ║
 ║   ╚═╝     ╚══════╝╚══════╝   ╚═╝    ╚═════╝ ╚══════╝        ║
 ║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝ <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
-<!-- PROFILE HEADER -->
-<h1 align="center">
-  Hi 👋, I'm VEDANG MISHRA
-</h1>
- 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;Open+Source+Enthusiast;HTML+CSS+CSS3+JavaScript;Learning+Python&C++center=true&width=500&height=45">
-</p>
+╚═══════════════════════════════════════════════════════════════╝ 
+ >
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-8d0d9d4c-8a7b-4b25-bae2-1a9a8f5a1b47.gif" width="400">
