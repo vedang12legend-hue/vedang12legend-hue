@@ -8,44 +8,62 @@
 
 
 
-![VedangCoding](https://img.shields.io/badge/VedangCoding-Developer-blue?style=for-the-badge)
-![Pair Extraordinaire](https://img.shields.io/badge/GitHub-Pair%20Extraordinaire-8A2BE2?logo=github&logoColor=white)
-
-
-
-
-
-<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
-
-<table>
-  <tr>
-    <td valign="top">
-      <img 
-        src="https://github.com/user-attachments/assets/3cdc27f2-35d4-4d0d-816e-410328ed57d8" 
-        alt="Preview" 
-        width="500" 
-        height="650" 
-        style="object-fit: cover; object-position: center; border-radius: 6px;">
+![VedangCoding](https://img.shields.io/badge/VedangCoding-Developer-blue?style=for-the-badges
     </td>
-    <td valign="top" style="padding-left:16px">
-      <p style="font-size:1.1rem; margin-top:0;">🌱 I’m currently learning</p>
-      <p>
-        <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
-        <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      </p>
-       <td valign="top" style="padding-left:16px">
-      <p style="font-size:1.1rem; margin-top:0;"
-     <p>
-  💬 Ask me about <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white" alt="Python">
-                   <img src="https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white" alt="HTML 5">
-                    <img src="https://img.shields.io/badge/Oracle-Database-F80000?logo=oracle&logoColor=white" alt="Oracle">
-                    <img src="https://img.shields.io/badge/Spring-Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot">
-                    <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white" alt="Git">
-                    <img src="https://img.shields.io/badge/Arcade-Coding-FF2D55?logo=github&logoColor=white" alt="Arcade">
+    
+      <h1 align="center">Hi 👋, I'm Vedang Mishra</h1>
+<h3 align="center">Frontend Developer | Java | Spring | Oracle</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Follow+Me;Check+Out+My+Repositories;I+Build+Cool+Web+Apps" />
+</p>
 
-                
+---
+
+## 🔥 About Me
+- 💻 Frontend Developer
+- 🌱 Learning **Spring & Backend**
+- 🚀 Love building **cool UI & games**
+- 🧠 Always learning new tech
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-red?logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-green?logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-red?logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-black?logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VedangMishra&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/VedangMishra">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github"/>
+  </a>
+</p>
+
+⭐ **Star my repos if you like them!**
+
+              
 </p>
 
   </tr>
@@ -53,16 +71,11 @@
  🧰 Tools & Version Control
 
  
+ 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
 
-  **VEDANG MISHRA**  
-Aspiring developer and student from India, passionate about technology and creativity,  
-Currently deepening my knowledge in **Python** and **HTML** while building web projects.                                  
-### 🚀 What I'm Learning
-- **Python** for general programming and problem-solving
-- **HTML** and web development fundamentals
 -
 
 
