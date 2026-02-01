@@ -93,4 +93,9 @@ I value clean code, clear communication, and continuous improvement.
   <img src="https://copilot.microsoft.com/th/id/BCO.e46efc64-5f9a-4bdf-8888-0148f63336a3.png" alt="GitHub Banner">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Follow+Me;Check+Out+My+Repositories" />
+</p>
+
+
 
