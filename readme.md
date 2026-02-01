@@ -6,12 +6,6 @@
 
 ---
 
-
-
-![VedangCoding](https://img.shields.io/badge/VedangCoding-Developer-blue?style=for-the-badges
-    </td>
-    
-      <h1 align="center">Hi 👋, I'm Vedang Mishra</h1>
 <h3 align="center">Frontend Developer | Java | Spring | Oracle</h3>
 
 <p align="center">
