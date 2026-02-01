@@ -55,7 +55,6 @@
   </a>
 </p>
 
-⭐ **Star my repos if you like them!**
 
               
 </p>
