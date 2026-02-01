@@ -87,38 +87,7 @@ Curiosity drives me to explore new ideas and technologies.
 
 I value clean code, clear communication, and continuous improvement.
 
-<!-- SLIDING TEXT CONTAINER -->
-<div align="center">
 
-  <div class="slider">
-    <span>🚀 Follow Me</span>
-    <span>📂 Check Out My Repositories</span>
-  </div>
-
-</div>
-
-<style>
-.slider {
-  height: 40px;
-  overflow: hidden;
-  position: relative;
-}
-
-.slider span {
-  display: block;
-  height: 40px;
-  font-size: 22px;
-  font-weight: bold;
-  color: #58a6ff;
-  animation: slide 4s infinite;
-}
-
-@keyframes slide {
-  0% { transform: translateY(0); }
-  50% { transform: translateY(-40px); }
-  100% { transform: translateY(0); }
-}
-</style>
 
 <p align="center">
   <img src="https://copilot.microsoft.com/th/id/BCO.e46efc64-5f9a-4bdf-8888-0148f63336a3.png" alt="GitHub Banner">
