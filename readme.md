@@ -9,7 +9,7 @@
 <h3 align="center">Frontend Developer | Java | Spring | Oracle</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Follow+Me;Check+Out+My+Repositories;I+Build+Cool+Web+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=I+AM+GOATED+CODER;I+Build+Cool+Web+Apps" />
 </p>
 
 ---
