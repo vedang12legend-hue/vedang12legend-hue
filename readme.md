@@ -48,42 +48,7 @@
 </p>
 
 
-              
-</p>
-
-  </tr>
-</table>
-<h1 align="center">Vedang Mishra</h1>
-<h3 align="center">CSS3 Coder • GitHub Explorer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-font=Fira+Code
-&size=14
-&pause=1200
-&color=58A6FF
-&center=true
-&vCenter=true
-&width=900
-&height=260
-&lines=
-+┌───────────────┐++++┌───────────────┐;
-+│+Vedang+Codes+│++++│+GitHub+Open+++│;
-+└───────────────┘++++└───────────────┘;
-+
-+(⌐■_■)+++++++++++++++[ Octocat ];
-+/│\+++++++++++++Repositories;
-+/+│+\++++++++++++Stars+Forks;
-+
-+┌───────────────┐++++┌───────────────┐;
-+│+CSS3+STYLING+│++++│+github.com+++│;
-+│+flex+grid+++│++++│+/VedangMishra│;
-+│+animation+++│++++│+Repositories+│;
-+└───────────────┘++++└───────────────┘;
-+
-+[ CSS3 BADGE 🟦 ]++++[ FOLLOW ⭐ ];
-+
-+Late+Night+Coding+☕++++Building+Cool+UI+🚀
+          
 " />
 </p>
 
