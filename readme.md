@@ -19,25 +19,7 @@
 - 🌱 Learning **Spring & Backend**
 - 🚀 Love building **cool UI & games**
 - 🧠 Always learning new tech
-              ┌─────────────────────────┐
-              │   💻  CODING MODE ON   │
-              └─────────────────────────┘
-
-                    (⌐■_■)
-                   /│     │\
-                  / │     │ \
-                 /  │     │  \
-                /   │     │   \
-               ─────┴─────┴─────
-               │   ┌─────────┐  │
-               │   │  CODE   │  │
-               │   │  JAVA   │  │
-               │   │  HTML   │  │
-               │   └─────────┘  │
-               │   █ █ █ █ █    │
-               └────────────────┘
-
-        🌙 Late Night • ☕ Coffee • 🚀 Building Cool Stuff
+              
 
 ---
 
