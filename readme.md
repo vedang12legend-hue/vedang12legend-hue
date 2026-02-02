@@ -76,6 +76,53 @@ font=Fira+Code
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 
 
+<h1 align="center">Vedang Mishra</h1>
+<h3 align="center">Coder by Day • Dreamer by Night 😴💻</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+font=Fira+Code
+&size=14
+&pause=900
+&color=58A6FF
+&center=true
+&vCenter=true
+&width=900
+&height=280
+&lines=
+FRAME+1;
++┌───────────────┐++++┌───────────────┐;
++│+Vedang+Codes+│++++│+GitHub+Open+++│;
++└───────────────┘++++└───────────────┘;
++(⌐■_■)+CSS3+++++++[+Octocat+];
++/│\+coding+++++++Repos+Stars;
++
+FRAME+2;
++┌───────────────┐++++┌───────────────┐;
++│+Late+Night+++│++++│+github.com+++│;
++└───────────────┘++++└───────────────┘;
++(⌐■_■)+yawn++++++Commits;
++
+FRAME+3;
++┌───────────────┐++++┌───────────────┐;
++│+System+Idle+│++++│+GitHub+Open+++│;
++└───────────────┘++++└───────────────┘;
++(－_－)+zzz+++++++Watching+Stars;
++
+FRAME+4;
++┌───────────────┐++++┌───────────────┐;
++│+Sleeping+😴+│++++│+Repos+Loaded++│;
++└───────────────┘++++└───────────────┘;
++(－_－)+zzz+++++++Dreaming+in+CSS3;
++
+🌙+Sleep+•+Dream+•+Code+Again+🚀
+" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-black?logo=github"/>
+</p>
 
  🧰 Tools & Version Control
 
