@@ -90,6 +90,44 @@ font=Fira+Code
   <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-black?logo=github"/>
 </p>
+<h1 align="center">Vedang Mishra</h1>
+<h3 align="center">CSS3 Coder | GitHub Explorer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+font=Fira+Code
+&size=14
+&pause=800
+&color=58A6FF
+&center=true
+&vCenter=true
+&width=900
+&height=260
+&lines=
+FRAME+1;
++┌───────────────┐++++┌───────────────┐;
++│+Vedang+Codes+│++++│+GitHub+Open+++│;
++└───────────────┘++++└───────────────┘;
++(⌐■_■)+Coding+CSS3++++[+Octocat+];
++/│\+flex+grid++++Repos+Stars;
++
+FRAME+2;
++┌───────────────┐++++┌───────────────┐;
++│+CSS3+STYLING+│++++│+github.com+++│;
++│+animation+++│++++│+/VedangMishra│;
++└───────────────┘++++└───────────────┘;
++[+CSS3+BADGE+🟦+]++++[+FOLLOW+⭐+];
++
+FRAME+3;
++Late+Night+Coding+☕++++Building+Cool+UI+🚀
+" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-black?logo=github"/>
+</p>
+
 
  🧰 Tools & Version Control
 
