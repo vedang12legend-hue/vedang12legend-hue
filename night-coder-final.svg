@@ -1,0 +1,81 @@
+<svg width="920" height="340" viewBox="0 0 920 340"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#0d1117"/>
+
+  <!-- Desk -->
+  <rect x="60" y="235" width="800" height="18" rx="9" fill="#161b22"/>
+
+  <!-- Laptop -->
+  <rect x="150" y="160" width="260" height="90" rx="10" fill="#161b22"/>
+  <rect x="170" y="170" width="220" height="60" rx="4" fill="#0a3069"/>
+
+  <!-- CSS code -->
+  <text x="180" y="192" font-family="monospace" font-size="12" fill="#58a6ff">
+    .container {
+  </text>
+  <text x="180" y="206" font-family="monospace" font-size="12" fill="#58a6ff">
+      display: flex;
+  </text>
+  <text x="180" y="220" font-family="monospace" font-size="12" fill="#58a6ff">
+      animation: dream;
+  </text>
+
+  <!-- Blinking cursor -->
+  <rect x="315" y="214" width="6" height="12" fill="#58a6ff">
+    <animate attributeName="opacity"
+             values="1;0;1"
+             dur="1s"
+             repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Second monitor -->
+  <rect x="470" y="120" width="300" height="130" rx="12" fill="#161b22"/>
+  <rect x="490" y="135" width="260" height="95" rx="6" fill="#0d1117"/>
+
+  <!-- GitHub text -->
+  <text x="510" y="165" font-family="monospace" font-size="16" fill="#58a6ff">
+    GitHub
+  </text>
+  <text x="510" y="185" font-family="monospace" font-size="12" fill="#8b949e">
+    Repositories • Commits • Stars
+  </text>
+
+  <!-- Coder face -->
+  <text x="265" y="140" font-size="28" fill="#c9d1d9">(－_－)</text>
+
+  <!-- Sleeping Z animation -->
+  <g>
+    <text x="310" y="130" font-size="16" fill="#8b949e">z
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        from="0 0"
+        to="0 -10"
+        dur="2s"
+        repeatCount="indefinite"/>
+    </text>
+
+    <text x="330" y="115" font-size="14" fill="#8b949e">z
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        from="0 0"
+        to="0 -8"
+        dur="2.5s"
+        repeatCount="indefinite"/>
+    </text>
+
+    <text x="350" y="100" font-size="12" fill="#8b949e">z
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        from="0 0"
+        to="0 -6"
+        dur="3s"
+        repeatCount="indefinite"/>
+    </text>
+  </g>
+
+</svg>
