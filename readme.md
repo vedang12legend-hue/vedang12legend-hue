@@ -30,16 +30,7 @@
   <img src="https://img.shields.io/badge/Spring-green?logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-red?logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-black?logo=git&logoColor=white"/>
-</p>
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VedangMishra&show_icons=true&theme=tokyonight" />
-</p>
-
----
 
 ## 🐍 Contribution Snake
 <p align="center">
