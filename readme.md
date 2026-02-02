@@ -42,9 +42,7 @@
   <img src="https://img.shields.io/badge/Git-black?logo=git&logoColor=white"/>
 
 <p align="center">
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&width=700&height=100&lines=THE+GOAT+CODER+IS+HERE" />
-</p>
+ 
 
 
 
