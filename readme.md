@@ -74,8 +74,6 @@ font=Fira+Code
 ## 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" 
-https://raw.githubusercontent.com/vedangmishra/animated-readme/main/night-coder-fixed
-
 
  🧰 Tools & Version Control
 
