@@ -40,12 +40,8 @@
 
 ---
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://github.com/VedangMishra">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github"/>
-  </a>
-</p>
+
+
 
 
           
