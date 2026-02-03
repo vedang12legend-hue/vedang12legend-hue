@@ -1,24 +1,38 @@
-<!-- HERO BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Vedang%20Mishra&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&desc=Frontend%20Developer%20|%20Java%20|%20Spring&descAlign=50&descAlignY=65" />
-</p>
+<!-- SLIDING TEXT CONTAINER -->
+<div align="center">
 
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Follow+Me;Check+Out+My+Repositories;I+Design+%26+Build+Real+Projects;Code+That+Actually+Looks+Good" />
-</p>
+  <h2>👋 Hi, I'm Vedang Mishra</h2>
 
-<!-- DIVIDER -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-5c1e6d63-39e1-4a2f-bd79-9b1b0d1c92b6.gif" width="80%">
-</p>
+  <div class="slider">
+    <span>🚀 Follow Me</span>
+    <span>📂 Check Out My Repositories</span>
+  </div>
 
-## 👋 About Me
-```txt
-Name        : Vedang Mishra
-Role        : Frontend Developer
-Mindset     : Build → Break → Learn → Repeat
-Focus       : Clean UI + Real Logic
+</div>
+
+<style>
+.slider {
+  height: 40px;
+  overflow: hidden;
+  position: relative;
+}
+
+.slider span {
+  display: block;
+  height: 40px;
+  font-size: 22px;
+  font-weight: bold;
+  color: #58a6ff;
+  animation: slide 4s infinite;
+}
+
+@keyframes slide {
+  0% { transform: translateY(0); }
+  50% { transform: translateY(-40px); }
+  100% { transform: translateY(0); }
+}
+</style>
+
 
 
 
