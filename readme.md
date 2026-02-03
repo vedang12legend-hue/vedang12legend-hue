@@ -1,33 +1,27 @@
-<h1 align="center">Vedang Mishra</h1>
-<h3 align="center">CSS3 Coder • GitHub Explorer</h3>
-
-
-
+<!-- HERO BANNER -->
 <p align="center">
-  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-black?logo=github"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Vedang%20Mishra&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&desc=Frontend%20Developer%20|%20Java%20|%20Spring&descAlign=50&descAlignY=65" />
 </p>
 
-
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-8d0d9d4c-8a7b-4b25-bae2-1a9a8f5a1b47.gif" width="400">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Follow+Me;Check+Out+My+Repositories;I+Design+%26+Build+Real+Projects;Code+That+Actually+Looks+Good" />
 </p>
 
----
-
-<h3 align="center">Frontend Developer | Java | Spring | Oracle</h3>
-
+<!-- DIVIDER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=I+AM+GOATED+CODER;I+Build+Cool+Web+Apps" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-5c1e6d63-39e1-4a2f-bd79-9b1b0d1c92b6.gif" width="80%">
 </p>
 
----
+## 👋 About Me
+```txt
+Name        : Vedang Mishra
+Role        : Frontend Developer
+Mindset     : Build → Break → Learn → Repeat
+Focus       : Clean UI + Real Logic
 
-## 🔥 About Me
-- 💻 Frontend Developer
-- 🌱 Learning **Spring & Backend**
-- 🚀 Love building **cool UI & games**
-- 🧠 Always learning new tech
+
+
               
 
 ---
