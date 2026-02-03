@@ -1,7 +1,7 @@
 ![Vedang Coding](https://img.shields.io/badge/Vedang-Coding-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=1f6feb)
 <div align="center">
 
-  <h2>👋 Hi, I'm Vedang Mishra</h2>
+   <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
   <h1 align="center">Hi 👋, I'm Vedang Mishra</h1>
 <h3 align="center">Frontend Developer | Java | Spring | Oracle</h3>
@@ -20,7 +20,10 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="180" />
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white"/>
@@ -34,8 +37,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VedangMishra&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VedangMishra&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VedangMishra&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ---
 
