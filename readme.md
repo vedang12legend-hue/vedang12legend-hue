@@ -20,10 +20,8 @@
 
 ---
 
-## 🛠️ Tech Stack<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="180" />
-</p>
-
+## 🛠️ Tech Stack<p 
+  
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white"/>
@@ -31,17 +29,14 @@
   <img src="https://img.shields.io/badge/Spring-green?logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-red?logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-black?logo=git&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&labelColor=0d1117"/>
+
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VedangMishra&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VedangMishra&theme=tokyonight&hide_border=true" />
-</p>
+
 
 
 ---
@@ -98,6 +93,11 @@ I value clean code, clear communication, and continuous improvement.
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Follow+Me;Check+Out+My+Repositories" />
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
+  <br/>
+  <b>Thank You! 🙏</b>
 </p>
 
 
