@@ -82,6 +82,12 @@ I value clean code, clear communication, and continuous improvement.
 
 ## 🌐 Connect With Me
 <p align="center">
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200"/>
+  <br/>
+  <b>Follow Vedang</b>
+</p>
+
+<p align="center">
   <a href="https://github.com/VedangMishra">
     <img src="https://img.shields.io/badge/GitHub-black?logo=github"/>
   </a>
