@@ -1,42 +1,22 @@
-<!-- SLIDING TEXT CONTAINER -->
+![Vedang Coding](https://img.shields.io/badge/Vedang-Coding-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=1f6feb)
 <div align="center">
 
   <h2>👋 Hi, I'm Vedang Mishra</h2>
 
-  <div class="slider">
-    <span>🚀 Follow Me</span>
-    <span>📂 Check Out My Repositories</span>
-  </div>
+  <h1 align="center">Hi 👋, I'm Vedang Mishra</h1>
+<h3 align="center">Frontend Developer | Java | Spring | Oracle</h3>
 
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Follow+Me;Check+Out+My+Repositories;I+Build+Cool+Web+Apps" />
+</p>
 
-<style>
-.slider {
-  height: 40px;
-  overflow: hidden;
-  position: relative;
-}
+---
 
-.slider span {
-  display: block;
-  height: 40px;
-  font-size: 22px;
-  font-weight: bold;
-  color: #58a6ff;
-  animation: slide 4s infinite;
-}
-
-@keyframes slide {
-  0% { transform: translateY(0); }
-  50% { transform: translateY(-40px); }
-  100% { transform: translateY(0); }
-}
-</style>
-
-
-
-
-              
+## 🔥 About Me
+- 💻 Frontend Developer
+- 🌱 Learning **Spring & Backend**
+- 🚀 Love building **cool UI & games**
+- 🧠 Always learning new tech
 
 ---
 
@@ -48,11 +28,23 @@
   <img src="https://img.shields.io/badge/Spring-green?logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-red?logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-black?logo=git&logoColor=white"/>
+</p>
 
+---
+
+## 📊 GitHub Stats
 <p align="center">
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=VedangMishra&show_icons=true&theme=tokyonight" />
+</p>
 
+---
 
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
 
  🧰 Tools & Version Control
 
@@ -86,7 +78,12 @@ Curiosity drives me to explore new ideas and technologies.
 
 I value clean code, clear communication, and continuous improvement.
 
-
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/VedangMishra">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://copilot.microsoft.com/th/id/BCO.e46efc64-5f9a-4bdf-8888-0148f63336a3.png" alt="GitHub Banner">
