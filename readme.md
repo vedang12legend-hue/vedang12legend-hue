@@ -7,7 +7,7 @@
 <h3 align="center">Frontend Developer | Java | Spring | Oracle</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Follow+Me;Check+Out+My+Repositories;I+Build+Cool+Web+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=I+AM+GOATED+CODER+VEDANG;I+Build+Cool+Web+Apps" />
 </p>
 
 ---
@@ -100,9 +100,10 @@ I value clean code, clear communication, and continuous improvement.
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Follow+Me;Check+Out+My+Repositories" />
 </p>
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
-  <br/>
+   <p align="center">
+  <img src="https://raw.githubusercontent.com/VedangMishra/VedangMishra/main/follow-vedang-black-cat.png" width="220"/>
+</p>
+
   <b>Thank You! 🙏</b>
 </p>
 
