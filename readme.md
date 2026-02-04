@@ -93,7 +93,7 @@ I value clean code, clear communication, and continuous improvement.
      width="500"
      align="right">
 
-<br/><br/>
+<br/>
 
 ## 🌐 Connect With Me
 <p align="center">
