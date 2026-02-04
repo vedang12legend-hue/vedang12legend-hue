@@ -79,6 +79,14 @@ I believe in learning by doing — every project is a step forward.
 Curiosity drives me to explore new ideas and technologies.
 
 I value clean code, clear communication, and continuous improvement.
+📊  GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vedang12legend-hue&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Stats-🔥%20On%20Fire-black?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ## 🌐 Connect With Me
 <p align="center">
