@@ -79,13 +79,43 @@ I believe in learning by doing — every project is a step forward.
 Curiosity drives me to explore new ideas and technologies.
 
 I value clean code, clear communication, and continuous improvement.
+
 📊  GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vedang12legend-hue&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</p>
+<p align="center">
+  🟢 Beginner &nbsp;→&nbsp;
+  🔵 Active &nbsp;→&nbsp;
+  🟠 Highly Active &nbsp;→&nbsp;
+  🔥 On Fire &nbsp;→&nbsp;
+  👑 <b>LEGEND</b>
+</p>
+
+<p align="center">
+  <b>Current Rank:</b> 👑 LEGEND  
+  <br/>
+  <sub>Unlocked by sustained high-intensity contributions</sub>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedang12legend-hue&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedang12legend-hue&theme=tokyo-night&hide_border=true" />
+</p>
+### 🏆 Legend Highlights
+- 👑 40+ commits in a single repository
+- 🔥 Active across multiple repositories
+- ⚡ High-frequency contributions in short time span
+- 🧠 Consistency over random commits
+<p align="center">
+  <img src="https://img.shields.io/badge/Contribution%20Rank-👑%20LEGEND-gold?style=for-the-badge&labelColor=0d1117" />
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub%20Stats-🔥%20Highly%20Active-black?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Stats-🔥%20On%20Fire-black?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+
 
 ## 🌐 Connect With Me
 <p align="center">
