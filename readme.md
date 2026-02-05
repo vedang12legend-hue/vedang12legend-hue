@@ -39,11 +39,10 @@
 </div>
   <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" alt="Programming GIF" />
     </td>
-
-## 🛠️ Tech Stack<p 
+🛠️ Tech Stack
   
-<p align="center">
-  <table align="center">
+
+<table align="center">
 <!-- skill -->
   <tr>
     <td align="center" width="90">
@@ -83,15 +82,85 @@
       <br>C++
     </td>
   </tr>
-  
-
-
-</p>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
- <p align="center">
-  <img src="https://cdn.wallpapersafari.com/30/0/n0HOqk.gif" width="400"/>                              
+  <!-- network -->
+<tr>
+  <td align="center" width="90">
+    <img src="./icons/solana.png" height="45" >
+    <br>Solana
+  </td>
+  <td align="center" width="90">
+    <img src="./icons/ethereum.png" height="45" >
+    <br>Ethereum
+  </td>
+  <td align="center" width="90">
+    <img src="./icons/Bitcoin.svg" height="45" >
+    <br>Bitcoin
+  </td>
+  <td align="center" width="90">
+    <img src="./icons/binance.png" height="45" >
+    <br>Binance
+  </td>
+  <td align="center" width="90">
+    <img src="./icons/aptos1.png" height="45" >
+    <br>Aptos
+  </td>
+  <td align="center" width="90">
+    <img src="./icons/polkadot1.png" height="45" >
+    <br>Polkadot
+  </td>
+  <td align="center" width="90">
+    <img src="./icons/cosmos.png" height="45" >
+    <br>Cosmos
+  </td>
+  <td align="center" width="90">
+    <img src="./icons/polygon1.png" height="45" >
+    <br>Polygon
+  </td>
+  <td align="center" width="90">
+    <img src="./icons/sui.png" height="45" >
+    <br>Sui
+  </td>
+</tr>
+<tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="45" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="nodejs" />
+      <br>Nodejs
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="45" height="45" />
+      <br>Django
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="fastapi" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=prisma" width="45" height="45" alt="prisma" />
+      <br>Prisma
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="MongoDB" />
+      <br>Docker
+    </td>
+  </tr>
+</table>
+</div>                            
   
 ## 🐍 Contribution Snake
 <p align="center">
