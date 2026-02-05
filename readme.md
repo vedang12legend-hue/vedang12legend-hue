@@ -79,6 +79,7 @@ thanks for giving your precious time so please follow and veiw my repositories
 
 ### 🎯 Goals
 - Master advanced web development concepts
+- <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>                                                  
 - Build full-stack applications
 - Contribute meaningfully to open-source
   🌟 Personal Philosophy
