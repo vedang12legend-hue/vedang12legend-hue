@@ -1,6 +1,14 @@
 ![Vedang Coding](https://img.shields.io/badge/Vedang-Coding-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=1f6feb)
 <div align="center">
+<p align="center">
+<a name="readme-top"></a>
 
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Hello%20GitHub%20Community!!&fontColor=4E342E&fontSize=36"
+    width="100%"
+  />
+</div>
    <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
   <h1 align="center">Hi 👋, I'm Vedang Mishra</h1>
