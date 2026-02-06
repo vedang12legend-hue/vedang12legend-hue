@@ -28,10 +28,10 @@
 <div align="center">
  <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&color=00ff00&size=25&letterSpacing=0.3px&pause=1000&center=true&vCenter=true&width=435&height=51&lines  />
 </div
- ABOUT ME  <p align="center">
+   <p align="center">
   <img height="40" alt="Vedang Coding" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 </p>
-
+ABOUT ME
 - 💻 Frontend Developer
 - 🌱 Learning **Spring & Backend**
 - 🚀 Love building **cool UI & games**
@@ -41,7 +41,10 @@
 </div>
   <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" alt="Programming GIF" />
     </td>
-🛠️ Tech Stack And Specialities
+🛠️ Tech Stack And Specialities<p align="center">
+  <img height="40" alt="Vedang Coding" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+</p>
+
 LET'S CODE TOGETHER
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1200&center=true&vCenter=true&width=800&lines=TECH+STACK+%7C+RANDOM+DEVELOPER&colors=9d4edd,7b2cbf,c77dff" />
