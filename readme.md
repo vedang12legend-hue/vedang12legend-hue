@@ -156,21 +156,14 @@ LET'S CODE TOGETHER
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
 
--<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
 
-THIS ANIMATION IF YOU WANT YOU NEED TO GO TO MY CODING CENTRE
----
 
 ### 🛠 Skills & Interests
 <p align="center">
   <img height="40" alt="Vedang Coding" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 </p>
 
-- Coding personal websites and platform clones
-- Exploring new programming languages
-- Automotive design, digital art, and 3D modeling
+
 - Engaged with physics and mathematics studies
   <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
@@ -193,8 +186,7 @@ THIS ANIMATION IF YOU WANT YOU NEED TO GO TO MY CODING CENTRE
   <img height="40" alt="Vedang Coding" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 </p>
 
-- Master advanced web development concepts
-- <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>                                                  
+- Master advanced web development concepts                                                 
 - Build full-stack applications
 - Contribute meaningfully to open-source
   🌟 Personal Philosophy
@@ -278,6 +270,4 @@ FOLLOW ME IF YOU LIKED MY PROFILE
 </div>
   <b>Thank You! 🙏</b>
 </p>
-<p align="center">
-  <img src="./sweetbanner.svg" alt="animated banner" />
-</p>
+
