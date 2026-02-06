@@ -243,3 +243,51 @@ FOLLOW ME IF YOU LIKED MY PROFILE
 <p align="center">
   <img src="./sweetbanner.svg" alt="animated banner" />
 </p>
+<p align="center">
+<svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7b2cbf"/>
+      <stop offset="50%" stop-color="#c77dff"/>
+      <stop offset="100%" stop-color="#5a189a"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="220" fill="#0d1117"/>
+
+  <text x="50%" y="50%"
+        text-anchor="middle"
+        dominant-baseline="middle"
+        font-size="48"
+        font-family="Orbitron, monospace"
+        fill="url(#neon)"
+        filter="url(#glow)">
+    RANDOM DEVELOPER
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      from="0 -6"
+      to="0 6"
+      dur="3s"
+      repeatCount="indefinite"/>
+  </text>
+
+  <text x="50%" y="68%"
+        text-anchor="middle"
+        font-size="18"
+        font-family="monospace"
+        fill="#c77dff"
+        opacity="0.9">
+    Code • Curiosity • Chaos
+  </text>
+</svg>
+</p>
+
