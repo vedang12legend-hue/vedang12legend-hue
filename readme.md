@@ -27,9 +27,9 @@
 
 <div align="center">
  <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&color=00ff00&size=25&letterSpacing=0.3px&pause=1000&center=true&vCenter=true&width=435&height=51&lines  />
-</div>
+</div
+ <img height="40" alt="Vedang Coding" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
-## 🔥 About Me 
 - 💻 Frontend Developer
 - 🌱 Learning **Spring & Backend**
 - 🚀 Love building **cool UI & games**
