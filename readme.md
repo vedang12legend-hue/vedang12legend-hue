@@ -40,125 +40,104 @@
   <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" alt="Programming GIF" />
     </td>
 🛠️ Tech Stack And Specialities
-  <table align="center">
-<!-- skill -->
+LET'S CODE TOGETHER
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1200&center=true&vCenter=true&width=800&lines=TECH+STACK+%7C+RANDOM+DEVELOPER&colors=9d4edd,7b2cbf,c77dff" />
+</h2>
+
+<table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://camo.githubusercontent.com/eeaac1a7a4d1100aebeeea77378dd908ac871e96a0eea4967c9e84f5258ad097/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6169736372697074" alt="icon" width="45" height="45" />
+      <img src="https://skillicons.dev/icons?i=aiscript" width="45" height="45"/>
       <br>AIScript
     </td>
     <td align="center" width="90">
-      <img src="https://camo.githubusercontent.com/1a1f45ae177ad25f0713641c3aa260624a1189f3935ad5cf81cd0275478e4d6e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d74656e736f72666c6f77" alt="icon" width="45" height="45" />
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45"/>
       <br>TensorFlow
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
+      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45"/>
       <br>Rust
     </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45"/>
       <br>Solidity
     </td>
-       <td align="center" width="90">
-      <img src="https://camo.githubusercontent.com/22410d344908e6815aacfe3a1aae5cd2cf75bc19a57beda0915c840fdd221668/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6861736b656c6c" width="45" height="45" alt="Solidity" />
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=haskell" width="45" height="45"/>
       <br>Haskell
     </td>
-       <td align="center" width="90">
-      <img src="https://camo.githubusercontent.com/7cb2c07f634420c9d48d1dc162041d078f0a0a2477bc311342fd264f7848a61c/68747470733a2f2f676574666f756e6472792e73682f666f756e6472792d6c6f676f2e706e67" width="45" height="45" alt="Solidity" />
-      <br>Foundary
+    <td align="center" width="90">
+      <img src="https://getfoundry.sh/foundry-logo.png" width="45" height="45"/>
+      <br>Foundry
     </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Go" />
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=go" width="45" height="45"/>
       <br>GoLang
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="45" height="55" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="55"/>
       <br>Python
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="cpp" />
+      <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45"/>
       <br>C++
     </td>
   </tr>
-  <!-- network -->
-<tr>
-  <td align="center" width="90">
-    <img src="./icons/solana.png" height="45" >
-    <br>Solana
-  </td>
-  <td align="center" width="90">
-    <img src="./icons/ethereum.png" height="45" >
-    <br>Ethereum
-  </td>
-  <td align="center" width="90">
-    <img src="./icons/Bitcoin.svg" height="45" >
-    <br>Bitcoin
-  </td>
-  <td align="center" width="90">
-    <img src="./icons/binance.png" height="45" >
-    <br>Binance
-  </td>
-  <td align="center" width="90">
-    <img src="./icons/aptos1.png" height="45" >
-    <br>Aptos
-  </td>
-  <td align="center" width="90">
-    <img src="./icons/polkadot1.png" height="45" >
-    <br>Polkadot
-  </td>
-  <td align="center" width="90">
-    <img src="./icons/cosmos.png" height="45" >
-    <br>Cosmos
-  </td>
-  <td align="center" width="90">
-    <img src="./icons/polygon1.png" height="45" >
-    <br>Polygon
-  </td>
-  <td align="center" width="90">
-    <img src="./icons/sui.png" height="45" >
-    <br>Sui
-  </td>
-</tr>
-<tr>
+
+  <tr>
+    <td align="center" width="90">Solana</td>
+    <td align="center" width="90">Ethereum</td>
+    <td align="center" width="90">Bitcoin</td>
+    <td align="center" width="90">Binance</td>
+    <td align="center" width="90">Aptos</td>
+    <td align="center" width="90">Polkadot</td>
+    <td align="center" width="90">Cosmos</td>
+    <td align="center" width="90">Polygon</td>
+    <td align="center" width="90">Sui</td>
+  </tr>
+
+  <tr>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="45" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="45"/>
       <br>React
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45"/>
       <br>Next.js
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="nodejs" />
-      <br>Nodejs
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45"/>
+      <br>Node.js
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45"/>
       <br>Express
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="45" height="45" />
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="45" height="45"/>
       <br>Django
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="fastapi" />
+      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45"/>
       <br>FastAPI
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45"/>
       <br>PostgreSQL
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=prisma" width="45" height="45" alt="prisma" />
+      <img src="https://skillicons.dev/icons?i=prisma" width="45" height="45"/>
       <br>Prisma
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45"/>
       <br>Docker
     </td>
   </tr>
 </table>
-</div>
+
+<hr style="border:1px solid #7b2cbf;">
 
 
  🧰 Tools & Version Control
