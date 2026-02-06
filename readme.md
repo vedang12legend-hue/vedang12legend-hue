@@ -260,7 +260,7 @@ YOU CAN CONTACT ME ON
     <img src="https://img.shields.io/badge/GitHub-black?logo=github"/>
   </a>
 </p>
-
+MY EMAIL VEDANG12LEGEND@GMAIL.COM
 <p align="center">
   <img src="https://copilot.microsoft.com/th/id/BCO.e46efc64-5f9a-4bdf-8888-0148f63336a3.png" alt="GitHub Banner">
 </p>
