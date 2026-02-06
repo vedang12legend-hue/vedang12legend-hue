@@ -243,5 +243,3 @@ FOLLOW ME IF YOU LIKED MY PROFILE
 <p align="center">
   <img src="./sweetbanner.svg" alt="animated banner" />
 </p>
-
-
