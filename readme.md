@@ -146,6 +146,9 @@ LET'S CODE TOGETHER
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
  🧰 Tools & Version Control
+<p align="center">
+  <img height="40" alt="Vedang Coding" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+</p>
 
 
  
@@ -161,6 +164,10 @@ THIS ANIMATION IF YOU WANT YOU NEED TO GO TO MY CODING CENTRE
 ---
 
 ### 🛠 Skills & Interests
+<p align="center">
+  <img height="40" alt="Vedang Coding" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+</p>
+
 - Coding personal websites and platform clones
 - Exploring new programming languages
 - Automotive design, digital art, and 3D modeling
@@ -182,11 +189,19 @@ THIS ANIMATION IF YOU WANT YOU NEED TO GO TO MY CODING CENTRE
 
 
 ### 🎯 Goals
+<p align="center">
+  <img height="40" alt="Vedang Coding" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+</p>
+
 - Master advanced web development concepts
 - <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>                                                  
 - Build full-stack applications
 - Contribute meaningfully to open-source
   🌟 Personal Philosophy
+  <p align="center">
+  <img height="40" alt="Vedang Coding" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+</p>
+
 I believe in learning by doing — every project is a step forward.
 
 Curiosity drives me to explore new ideas and technologies.
@@ -196,6 +211,9 @@ I value clean code, clear communication, and continuous improvement.
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 # 📊 GitHub Stats
+<p align="center">
+  <img height="40" alt="Vedang Coding" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub%20Stats-👑%20LEGEND%20TIER-black?style=for-the-badge&logo=github&logoColor=white" />
@@ -212,7 +230,25 @@ I value clean code, clear communication, and continuous improvement.
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
-## 🌐 Connect With Me
+## 🌐 Connect With Me<p align="center">
+  <img height="40" alt="Vedang Coding" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+</p>
+YOU CAN CONTACT ME ON 
+<p align="center">
+  <a href="https://www.youtube.com/">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="mailto:vedang12legend@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
+</a>
+</p>
+
 <p align="center">
   <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200"/>
   <br/>
