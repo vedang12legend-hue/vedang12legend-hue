@@ -39,10 +39,8 @@
 </div>
   <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" alt="Programming GIF" />
     </td>
-🛠️ Tech Stack
-  
-
-<table align="center">
+🛠️ Tech Stack And Specialities
+  <table align="center">
 <!-- skill -->
   <tr>
     <td align="center" width="90">
@@ -160,16 +158,8 @@
     </td>
   </tr>
 </table>
-</div>                            
-  
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
----
+
 
  🧰 Tools & Version Control
 
@@ -183,7 +173,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
-
+THIS ANIMATION IF YOU WANT YOU NEED TO GO TO MY CODING CENTRE
 ---
 
 ### 🛠 Skills & Interests
@@ -192,6 +182,17 @@
 - Automotive design, digital art, and 3D modeling
 - Engaged with physics and mathematics studies
   <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
+-<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
+𝗥𝗔𝗡𝗗𝗢𝗠 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 𝗤𝗨𝗢𝗧𝗘
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
+  <b>— Cory House</b>
+</p>
+-<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
