@@ -270,4 +270,6 @@ FOLLOW ME IF YOU LIKED MY PROFILE
 </div>
   <b>Thank You! 🙏</b>
 </p>
-
+<p align="center">
+  <img src="./sweetbanner.svg" alt="animated banner" />
+</p>
