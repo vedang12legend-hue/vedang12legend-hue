@@ -33,26 +33,9 @@
 </p>
  <p align="center">
   <svg width="600" height="120" viewBox="0 0 600 120">
-    <defs>
-      <linearGradient id="neonGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#a855f7"/>
-        <stop offset="50%" stop-color="#ec4899"/>
-        <stop offset="100%" stop-color="#6366f1"/>
-      </linearGradient>
- 
-
+    
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1200&center=true&vCenter=true&width=900&lines=ABOUT+ME;VEDANG+CODING;RANDOM+DEVELOPER&colors=9d4edd,c77dff,7b2cbf" />
-</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-</p>
-
-<p align="center">
-  <b>👋 Hi, I'm Vedang Mishra</b><br>
-  <i>Random Developer • Curious Mind • Code Explorer</i>
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1200&center=true&vCenter=true&width=900&lines=ABOUT+ME; 
 
 <hr>
 
