@@ -39,58 +39,7 @@
 </div>
   <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" alt="Programming GIF" />
     </td>
-        
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1200&center=true&vCenter=true&width=900&lines=ABOUT+ME; 
-
-<hr>
-
-### 🧠 Who Am I?
-- 💻 A developer who learns by building & breaking
-- 🔍 Curious about **technology, systems, and logic**
-- 🚀 Always experimenting, always improving
-- 🎯 Focused on **skills > hype**
-
----
-
-### ⚙️ What I Do
-- 🐍 Write code in **Python** and many languages
-- 🌐 Explore **Web & Backend technologies**
-- 🔗 Learn **Blockchain & Smart Contracts**
-- 🧪 Experiment with new tools & ideas
-
----
-
-### 🔥 Developer Mindset
-> “Random ideas, real code, relentless learning.”  
-> — Random Developer
-
----
-
-### 📊 Coding Philosophy
-- Clean code > clever code  
-- Learning never stops  
-- Bugs are teachers  
-- Consistency beats motivation  
-
----
-
-### 🧩 Currently Working On
-- 📚 Strengthening core programming skills  
-- 🛠️ Building small but meaningful projects  
-- 🧠 Understanding how things work under the hood  
-
----
-
-### 🌱 Currently Learning
-- Python deep dive  
-- Backend concepts  
-- Developer tools & workflows 
----
-
-<p align="center">
-  <i>“Still learning. Still building. Still curious.”</i>
-</p>
+      
 
 
 🛠️ Tech Stack And Specialities<p align="center">
@@ -197,6 +146,58 @@ LET'S CODE TOGETHER
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1200&center=true&vCenter=true&width=900&lines=ABOUT+ME; 
+
+<hr>
+
+### 🧠 Who Am I?
+- 💻 A developer who learns by building & breaking
+- 🔍 Curious about **technology, systems, and logic**
+- 🚀 Always experimenting, always improving
+- 🎯 Focused on **skills > hype**
+
+---
+
+### ⚙️ What I Do
+- 🐍 Write code in **Python** and many languages
+- 🌐 Explore **Web & Backend technologies**
+- 🔗 Learn **Blockchain & Smart Contracts**
+- 🧪 Experiment with new tools & ideas
+
+---
+
+### 🔥 Developer Mindset
+> “Random ideas, real code, relentless learning.”  
+> — Random Developer
+
+---
+
+### 📊 Coding Philosophy
+- Clean code > clever code  
+- Learning never stops  
+- Bugs are teachers  
+- Consistency beats motivation  
+
+---
+
+### 🧩 Currently Working On
+- 📚 Strengthening core programming skills  
+- 🛠️ Building small but meaningful projects  
+- 🧠 Understanding how things work under the hood  
+
+---
+
+### 🌱 Currently Learning
+- Python deep dive  
+- Backend concepts  
+- Developer tools & workflows 
+---
+
+<p align="center">
+  <i>“Still learning. Still building. Still curious.”</i>
+</p>
+
  🧰 Tools & Version Control
 <p align="center">
   <img height="40" alt="Vedang Coding" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
