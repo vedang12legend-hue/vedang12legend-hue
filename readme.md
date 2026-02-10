@@ -103,7 +103,7 @@
   <i>“Still learning. Still building. Still curious.”</i>
 </p>
 
-<!-- =================== END ABOUT ME ==================== -->
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
@@ -291,7 +291,8 @@ I value clean code, clear communication, and continuous improvement.
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
-## 🌐 Connect With Me<p align="center">
+## 🌐 Connect With Me
+  <p  align="center">
   <img height="40" alt="Vedang Coding" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 </p>
 YOU CAN CONTACT ME ON 
