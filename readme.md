@@ -33,7 +33,13 @@
 </p>
  <p align="center">
   <svg width="600" height="120" viewBox="0 0 600 120">
-    
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" alt="Programming GIF" />
+    </td>
+        
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1200&center=true&vCenter=true&width=900&lines=ABOUT+ME; 
 
@@ -87,12 +93,6 @@
 </p>
 
 
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
-  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" alt="Programming GIF" />
-    </td>
 🛠️ Tech Stack And Specialities<p align="center">
   <img height="40" alt="Vedang Coding" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 </p>
