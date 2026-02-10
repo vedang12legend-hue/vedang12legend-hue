@@ -31,11 +31,80 @@
    <p align="center">
   <img height="40" alt="Vedang Coding" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 </p>
-ABOUT ME
-- 💻 Frontend Developer
-- 🌱 Learning **Spring & Backend**
-- 🚀 Love building **cool UI & games**
-- 🧠 Always learning new tech
+ <p align="center">
+  <svg width="600" height="120" viewBox="0 0 600 120">
+    <defs>
+      <linearGradient id="neonGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#a855f7"/>
+        <stop offset="50%" stop-color="#ec4899"/>
+        <stop offset="100%" stop-color="#6366f1"/>
+      </linearGradient>
+ 
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1200&center=true&vCenter=true&width=900&lines=ABOUT+ME;VEDANG+CODING;RANDOM+DEVELOPER&colors=9d4edd,c77dff,7b2cbf" />
+</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+</p>
+
+<p align="center">
+  <b>👋 Hi, I'm Vedang Mishra</b><br>
+  <i>Random Developer • Curious Mind • Code Explorer</i>
+</p>
+
+<hr>
+
+### 🧠 Who Am I?
+- 💻 A developer who learns by building & breaking
+- 🔍 Curious about **technology, systems, and logic**
+- 🚀 Always experimenting, always improving
+- 🎯 Focused on **skills > hype**
+
+---
+
+### ⚙️ What I Do
+- 🐍 Write code in **Python** and many languages
+- 🌐 Explore **Web & Backend technologies**
+- 🔗 Learn **Blockchain & Smart Contracts**
+- 🧪 Experiment with new tools & ideas
+
+---
+
+### 🔥 Developer Mindset
+> “Random ideas, real code, relentless learning.”  
+> — Random Developer
+
+---
+
+### 📊 Coding Philosophy
+- Clean code > clever code  
+- Learning never stops  
+- Bugs are teachers  
+- Consistency beats motivation  
+
+---
+
+### 🧩 Currently Working On
+- 📚 Strengthening core programming skills  
+- 🛠️ Building small but meaningful projects  
+- 🧠 Understanding how things work under the hood  
+
+---
+
+### 🌱 Currently Learning
+- Python deep dive  
+- Backend concepts  
+- Developer tools & workflows 
+---
+
+<p align="center">
+  <i>“Still learning. Still building. Still curious.”</i>
+</p>
+
+<!-- =================== END ABOUT ME ==================== -->
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
@@ -240,7 +309,8 @@ YOU CAN CONTACT ME ON
   <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
 </a>
 </p>
-
+<p align="center">
+  <a href="mailto:vedang12legend@gmail.com">
 <p align="center">
   <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200"/>
   <br/>
@@ -252,7 +322,6 @@ YOU CAN CONTACT ME ON
     <img src="https://img.shields.io/badge/GitHub-black?logo=github"/>
   </a>
 </p>
-MY EMAIL VEDANG12LEGEND@GMAIL.COM
 <p align="center">
   <img src="https://copilot.microsoft.com/th/id/BCO.e46efc64-5f9a-4bdf-8888-0148f63336a3.png" alt="GitHub Banner">
 </p>
