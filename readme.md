@@ -8,6 +8,7 @@
     src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Hello%20GitHub%20Community!!&fontColor=4E342E&fontSize=36"
     width="100%"
   />
+  
 </div>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
