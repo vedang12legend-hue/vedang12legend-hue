@@ -86,60 +86,156 @@
 
 
  # 💻 My favorite tools and technologies
- <!DOCTYPE html>
-<html>
-<head>
-<style>
-body{
-    background:#0d1117;
-    display:flex;
-    justify-content:center;
-    align-items:center;
-    height:100vh;
-    overflow:hidden;
-}
+<div align="center">
 
-.container{
-    position:relative;
-    width:400px;
-    height:400px;
-    animation:rotate 20s linear infinite;
-}
+<table>
+<tr>
 
-.tech{
-    position:absolute;
-    color:white;
-    font-weight:bold;
-    font-family:Arial;
-    padding:6px 10px;
-    background:#161b22;
-    border-radius:20px;
-    box-shadow:0 0 10px #00ffff;
-}
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="65" height="65"/>
+<br>React
+</td>
 
-@keyframes rotate{
-    100%{transform:rotate(360deg);}
-}
-</style>
-</head>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="65" height="65"/>
+<br>Python
+</td>
 
-<body>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=javascript" width="65" height="65"/>
+<br>JavaScript
+</td>
 
-<div class="container">
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cpp" width="65" height="65"/>
+<br>C++
+</td>
 
-<span class="tech" style="top:0; left:160px;">GitHub</span>
-<span class="tech" style="top:40px; left:280px;">React</span>
-<span class="tech" style="top:160px; left:340px;">Python</span>
-<span class="tech" style="top:280px; left:280px;">JavaScript</span>
-<span class="tech" style="top:340px; left:160px;">C++</span>
-<span class="tech" style="top:280px; left:40px;">AWS</span>
-<span class="tech" style="top:160px; left:0;">MySQL</span>
-<span class="tech" style="top:40px; left:40px;">TypeScript</span>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=webpack" width="65" height="65"/>
+<br>Webpack
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="65" height="65"/>
+<br>MySQL
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=typescript" width="65" height="65"/>
+<br>TypeScript
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=aws" width="65" height="65"/>
+<br>AWS
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cs" width="65" height="65"/>
+<br>C#
+</td>
+
+</tr>
+<tr>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=django" width="65" height="65"/>
+<br>Django
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="65" height="65"/>
+<br>GitHub
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="65" height="65"/>
+<br>Git
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=laravel" width="65" height="65"/>
+<br>Laravel
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="65" height="65"/>
+<br>HTML5
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="65" height="65"/>
+<br>CSS
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65"/>
+<br>Bootstrap
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65"/>
+<br>Tailwind
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=jquery" width="65" height="65"/>
+<br>jQuery
+</td>
+
+</tr>
+<tr>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65"/>
+<br>MongoDB
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65"/>
+<br>Node.js
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=php" width="65" height="65"/>
+<br>PHP
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="65" height="65"/>
+<br>VS Code
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=wordpress" width="65" height="65"/>
+<br>WordPress
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vue" width="65" height="65"/>
+<br>Vue
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=sass" width="65" height="65"/>
+<br>Sass
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=graphql" width="65" height="65"/>
+<br>GraphQL
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="65" height="65"/>
+<br>PostgreSQL
+</td>
+
+</tr>
+</table>
 
 </div>
-
-</body>
-</html>
 
 
  
