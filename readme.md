@@ -82,10 +82,7 @@
 
 <p align="center">
   <i>Still learning. Still building. Still curious.</i>
-</p>
-
-
- # 💻 My favorite tools and technologies
+</p/>
 # 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
