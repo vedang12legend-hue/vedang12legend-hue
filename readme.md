@@ -286,19 +286,11 @@
   <img height="40" alt="Vedang Coding" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 </p>
 
-
  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
 
-
-
-### 🛠 Skills & Interests
-<p align="center">
-  <img height="40" alt="Vedang Coding" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
-</p>
-- Engaged with physics and mathematics studies
 </div>
 -<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
