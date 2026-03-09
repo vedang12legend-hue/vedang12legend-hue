@@ -178,8 +178,6 @@
       <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45"/>
       <br>TensorFlow
         </td>
-    </td>
-    </td>
   </tr>
  <tr>
       <td align="center" width="96">
@@ -189,7 +187,6 @@
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
-      </td>
       </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
@@ -225,8 +222,6 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45"/>
       <br>Solidity
-       
- 
 ## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
