@@ -200,6 +200,34 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
+      <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=aiscript" width="45" height="45"/>
+      <br>AIScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45"/>
+      <br>TensorFlow
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45"/>
+      <br>Rust
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45"/>
+      <br>Solidity
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=haskell" width="45" height="45"/>
+      <br>Haskell
+    </td>
+    <td align="center" width="90">
+      <img src="https://getfoundry.sh/foundry-logo.png" width="45" height="45"/>
+      <br>Foundry
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=go" width="45" height="45"/>
+      <br>GoLang
+    </td>
     </td>
  </tr>
 </table>
