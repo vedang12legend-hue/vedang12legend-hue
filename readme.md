@@ -133,9 +133,6 @@
       <img src="https://getfoundry.sh/foundry-logo.png" width="45" height="45"/>
       <br>Foundry
       <tr>
-     <td align="center" width="90"> 
-      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
-      <br>Next.js
     </td>
   </tr>
   <tr>
@@ -181,16 +178,6 @@
       <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45"/>
       <br>TensorFlow
         </td>
-  <td align="center" width="90">
-    <img src="./icons/binance.png" height="45" >
-    <br>Binance
-  </td>
-  <td align="center" width="90">
-    <img src="./icons/aptos1.png" height="45" >
-    <br>Aptos
-     <td align="center" width="90">
-    <img src="./icons/sui.png" height="45" >
-    <br>Sui
     </td>
     </td>
   </tr>
@@ -239,20 +226,6 @@
       <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45"/>
       <br>Solidity
        <td align="center" width="90">
-    <img src="./icons/polkadot1.png" height="45" >
-    <br>Polkadot
-  </td>
-  <td align="center" width="90">
-    <img src="./icons/cosmos.png" height="45" >
-    <br>Cosmos
-    <td align="center" width="90">
-    <img src="./icons/polygon1.png" height="45" >
-    <br>Polygon
- </tr>
-</table>
-<br><br>
-</div>
-<p align="center">
  
 ## Languages and Tools  
 <div align="center">  
