@@ -133,14 +133,7 @@
       <img src="https://getfoundry.sh/foundry-logo.png" width="45" height="45"/>
       <br>Foundry
       <tr>
-  <td align="center" width="90">
-    <img src="./icons/solana.png" height="45" >
-    <br>Solana
-  </td>
-  <td align="center" width="90">
-    <img src="./icons/ethereum.png" height="45" >
-    <br>Ethereum
-     <td align="center" width="90">
+     <td align="center" width="90"> 
       <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
       <br>Next.js
     </td>
