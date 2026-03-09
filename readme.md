@@ -124,15 +124,6 @@
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
-        </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=haskell" width="45" height="45"/>
-      <br>Haskell
-    </td>
-    <td align="center" width="90">
-      <img src="https://getfoundry.sh/foundry-logo.png" width="45" height="45"/>
-      <br>Foundry
-      <tr>
     </td>
   </tr>
   <tr>
@@ -170,14 +161,7 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
       <br>jQuery
-       <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=aiscript" width="45" height="45"/>
-      <br>AIScript
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45"/>
-      <br>TensorFlow
-        </td>
   </tr>
  <tr>
       <td align="center" width="96">
@@ -187,6 +171,7 @@
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
+      </td>
       </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
@@ -215,13 +200,17 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
-         <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45"/>
-      <br>Rust
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45"/>
-      <br>Solidity
+ </tr>
+</table>
+<br><br>
+
+
+</div>
+
+
+<p align="center">
+  
 ## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
