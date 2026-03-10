@@ -68,7 +68,8 @@
 
 ### 🔥 Developer Mindset
 > “Random ideas. Real code. Relentless learning.”  
-> — Random Developer  
+> — Random Developer
+> vs code is the best for this type of mindset
 
 ---
 
