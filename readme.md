@@ -338,12 +338,7 @@ I value clean code, clear communication, and continuous improvement.
 
 <img src="https://github-readme-stats.vercel.app/api?username=vedang12legend-hue&show_icons=true&theme=tokyonight&hide_border=false"
      width="500"
-     align="right">
 
-<br/>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
 ## 🌐 Connect With Me
   <p  align="center">
   <img height="40" alt="Vedang Coding" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
