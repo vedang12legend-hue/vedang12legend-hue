@@ -1,4 +1,4 @@
-![Vedang Coding] (https://img.shields.io/badge/Vedang-Coding-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=1f6feb)
+![Vedang Coding](https://img.shields.io/badge/Vedang-Coding-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=1f6feb)
 <div align="center"> 
 <p align="center">
 <a name="readme-top"></a>
