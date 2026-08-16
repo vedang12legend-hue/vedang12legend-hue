@@ -3,11 +3,8 @@
 <p align="center">
 <a name="readme-top"></a>
   
-<div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Hello%20GitHub%20Community!!&fontColor=4E342E&fontSize=36"
-    width="100%"
-  />
+ <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
+<br><br>
   
 </div>
 <div align="center">
